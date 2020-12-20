@@ -1,0 +1,20 @@
+(Daryl Gates, Ricky Harris),Adamic_adar: 12.05345318087819
+(Ricky Harris, Daryl Gates),Adamic_adar: 12.05345318087819
+(Jack Nicholson, Lance Henriksen),Adamic_adar: 11.509706834150558
+(Lance Henriksen, Jack Nicholson),Adamic_adar: 11.50970683415055
+(Nicole Bilderback, John Travolta),Adamic_adar: 11.28545418578795
+(John Travolta, Nicole Bilderback),Adamic_adar: 11.285454185787945
+(John Travolta, Mia Farrow),Adamic_adar: 11.20347919864952
+(Mia Farrow, John Travolta),Adamic_adar: 11.203479198649518
+(Stephen Boxer, Lance Henriksen),Adamic_adar: 11.191202737720058
+(Lance Henriksen, Stephen Boxer),Adamic_adar: 11.191202737720058
+(Marisa Tomei, Helen McCrory),Adamic_adar: 10.841954355073911
+(Helen McCrory, Marisa Tomei),Adamic_adar: 10.841954355073907
+(Jon Tenney, Gary Oldman),Adamic_adar: 10.229877219996544
+(Gary Oldman, Jon Tenney),Adamic_adar: 10.229877219996542
+(Jack Nicholson, Stephen Boxer),Adamic_adar: 10.138932558497824
+(Stephen Boxer, Jack Nicholson),Adamic_adar: 10.138932558497823
+(James Garner, Jon Tenney),Adamic_adar: 10.123949163559237
+(Jon Tenney, James Garner),Adamic_adar: 10.123949163559237
+(Catherine O Hara, John Travolta),Adamic_adar: 9.79960649572027
+(John Travolta, Catherine O Hara),Adamic_adar: 9.799606495720266
